@@ -11,7 +11,7 @@
 <h5> I have created a To-Do list application using the MEAN Stack </h5>
 <h5> <strong> Github repo: </strong> https://github.com/SoukaynaFR/MEAN-To-Do-List </h5>
 
-<h4> TASK 3: Calculatoy : </h4>
+<h4> TASK 3: Calculator : </h4>
 <h5> I have created a user friendly calculator using Angular </h5>
 <h5> <strong> Github repo: </strong> https://github.com/SoukaynaFR/ANGULAR_CALCULATOR</h5>
 
